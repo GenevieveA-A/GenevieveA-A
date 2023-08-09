@@ -6,7 +6,7 @@ I have a well-rounded skill set in Data Wrangling with Python and SQL.
 
 
 -  👋 Hi, I’m @GenevieveA-A
-- 🌱 I’m currently learning Data Analytics from Udacity.
+- 🌱 I hold a Data Analytics degree from Udacity and am currently engaged in advancing my knowledge in Data Science through ALX.
 - 💞️ I’m looking to collaborate on Data Analytics and BI Development projects**
 - 📫 How to reach me on my LinkedIn profile below.
 
